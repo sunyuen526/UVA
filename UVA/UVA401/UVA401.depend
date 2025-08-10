@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1753867561 source:c:\uva\uva401\main.cpp
+	<string>
+	<unordered_map>
+	<iostream>
+	<string>
+	<unordered_map>
+

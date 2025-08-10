@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1751535620 source:c:\uva\uva133\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+
